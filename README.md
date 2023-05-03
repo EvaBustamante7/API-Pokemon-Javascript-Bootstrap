@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/126781088/229580377-f7f50c57-8688-4a43-8dc7-6513f6f84e73.png" alt="JuveYell" width="300px">
 </p>
 </div>
-## API Pokemon Javascript/Bootstrap
+##API Pokemon Javascript/Bootstrap
 
 Este proyecto es una página web artística para un pintor. La página presenta una galería de sus cuadros con un efecto parallax que da la impresión de profundidad en las imágenes. La página está diseñada para resaltar la obra del artista y crear una experiencia visual atractiva para los visitantes.
 
