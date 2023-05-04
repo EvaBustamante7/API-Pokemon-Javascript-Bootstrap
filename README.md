@@ -1,7 +1,7 @@
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://user-images.githubusercontent.com/126781088/229580377-f7f50c57-8688-4a43-8dc7-6513f6f84e73.png" alt="JuveYell" width="300px">
+<img src="https://github.com/EvaBustamante7/API-Pokemon-Javascript-Bootstrap/blob/main/css/pokeball_.svg" alt="pokeball" width="300px">
 </p>
 </div>
 
