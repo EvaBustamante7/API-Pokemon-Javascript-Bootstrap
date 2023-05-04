@@ -1,0 +1,10 @@
+@media (max-width: 750px) {
+  .pokemon-container {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 470px) {
+  .pokemon-container {
+    grid-template-columns: 1fr;
+  }
+}/*# sourceMappingURL=responsive.css.map */
