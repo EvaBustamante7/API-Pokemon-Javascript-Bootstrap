@@ -6,15 +6,13 @@
 </div>
 
 ## API Pokemon Javascript/Bootstrap
-
-Este proyecto es una página web artística para un pintor. La página presenta una galería de sus cuadros con un efecto parallax que da la impresión de profundidad en las imágenes. La página está diseñada para resaltar la obra del artista y crear una experiencia visual atractiva para los visitantes.
+Este proyecto consiste en una página web que consume la API de Pokémon para mostrar información sobre diferentes criaturas de este universo. La página se ha construido principalmente con JavaScript y ha utilizado algunos componentes de Bootstrap como un spinner, barras de progreso y paginación para mejorar la experiencia de usuario. Con SASS se han utilizado las funcionalidades de mixin y anidamiento e importación de variables de Bootstrap.
 
 ## Características de la página
-La página presenta las siguientes características:
-* Galería de imágenes: la página muestra una galería de imágenes del artista, que incluye varias de sus obras más conocidas.
-* Efecto parallax: el efecto parallax se utiliza para crear una sensación de profundidad en las imágenes y hacer que la experiencia de navegación sea más atractiva visualmente.  
-* Diseño receptivo: la página está diseñada para ser receptiva y se adapta automáticamente al tamaño de la pantalla del dispositivo del usuario.
-* Navegación sencilla: la navegación es sencilla e intuitiva, con un menú en la parte superior de la página que permite al usuario ir a diferentes secciones de la página.
+* Información detallada de Pokémon: la página muestra información detallada sobre cada criatura, como su nombre, foto, estadísticas, etc.
+* Paginación para facilitar la navegación: dado que la API proporciona una gran cantidad de datos, se ha implementado una paginación que permite al usuario navegar por las diferentes páginas de resultados.
+* Diseño responsive: la página se ha diseñado utilizando Bootstrap y SASS, lo que permite que se adapte a diferentes tamaños de pantalla y dispositivos.
+* Spinner y barras de progreso: se han incluido un spinner y barras de progreso para mejorar la experiencia de usuario mientras se cargan los datos de la API.
 
 ## Uso
 Para utilizar esta página, simplemente abre el archivo index.html en un navegador web. Si deseas editar la página, los archivos HTML, CSS y JavaScript están disponibles en el repositorio.
@@ -22,7 +20,14 @@ Para utilizar esta página, simplemente abre el archivo index.html en un navegad
 ## Contribución
 Las contribuciones son bienvenidas. Si deseas hacer una contribución a este proyecto, crea una rama (branch) y realiza tus cambios. Luego, envía una solicitud de extracción (pull request) y se revisará tu contribución.
 
+## Tecnologías utilizadas
+* Bootstrap
+* Javascript
+* SASS
+
 ## Links
-* https://heropatterns.com/
-* https://scrollrevealjs.org/guide/hello-world.html
-* https://validator.w3.org/
+* https://trello.com/b/Amiq2SHh/pokedex
+* https://rapidapi.com/
+* https://pokeapi.co/docs/v2#pokemon
+* https://www.youtube.com/watch?v=59Jq_T7G4y4
+* https://getbootstrap.com/
