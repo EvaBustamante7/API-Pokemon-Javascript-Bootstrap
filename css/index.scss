@@ -10,7 +10,7 @@ $cyan: #0dcaf0 !default;
     font-family: 'Oswald', sans-serif;
     font-weight: 900;
     color: white;
-    text-shadow: 4px 4px 4px rgba(13, 62, 222, 0.945); 
+    text-shadow: 4px 4px 4px rgba(13, 62, 222, 0.945);
 }
 
 @mixin text {
@@ -78,7 +78,7 @@ body {
     .page-link {
         color: $blue;
         font-weight: bold;
-        text-shadow: 4px 3px 3px rgba(255, 255, 255, 0.945); 
+        text-shadow: 4px 3px 3px rgba(255, 255, 255, 0.945);
     }
 
     a:hover {

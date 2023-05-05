@@ -85,7 +85,7 @@ function createPokemon(pokemon) {
     flipCard.appendChild(cardContainer);
     cardContainer.appendChild(CARD);
     cardContainer.appendChild(cardBack);
-    
+
 
 
 }
@@ -98,7 +98,7 @@ function progressBars(stats) {
         const stat = stats[i];
 
         const statPercent = stat.base_stat / 2 + "%";
-        
+
         const statContainer = document.createElement('stat-container');
         statContainer.classList.add('stat-container');
 
