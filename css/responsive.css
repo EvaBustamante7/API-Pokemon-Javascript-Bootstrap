@@ -2,6 +2,11 @@
   .pokemon-container {
     grid-template-columns: 1fr 1fr;
   }
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 @media (max-width: 470px) {
   .pokemon-container {
