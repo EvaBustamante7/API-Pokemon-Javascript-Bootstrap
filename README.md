@@ -1,9 +1,8 @@
 
-<div>
-<p style = 'text-align:center;'>
-<img src="https://github.com/EvaBustamante7/API-Pokemon-Javascript-Bootstrap/blob/main/css/pokeball_.svg" alt="pokeball" width="300px">
+<p align="center">
+  <img src="https://github.com/EvaBustamante7/API-Pokemon-Javascript-Bootstrap/blob/main/css/pokeball_.svg" alt="pokeball" width="300px">
 </p>
-</div>
+
 
 ## API Pokemon Javascript/Bootstrap
 Este proyecto consiste en una página web que consume la API de Pokémon para mostrar información sobre diferentes criaturas de este universo. La página se ha construido principalmente con JavaScript y ha utilizado algunos componentes de Bootstrap como un spinner, barras de progreso y paginación para mejorar la experiencia de usuario. Con SASS se han utilizado las funcionalidades de mixin y anidamiento e importación de variables de Bootstrap.
